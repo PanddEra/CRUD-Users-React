@@ -1,6 +1,6 @@
 # User Management CRUD App
 
-## A React-based CRUD application for managing users with form validation and API integration.
+#### A React-based CRUD application for managing users with form validation and API integration.
 
 ## About the Project
 
