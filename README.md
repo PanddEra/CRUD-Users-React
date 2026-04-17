@@ -34,9 +34,9 @@ The app uses a fake API and demonstrates real-world frontend patterns.
 
 ## Installation & Run
 ### 1. Clone the repository:
-   ```git clone REPOURL```
+   ```git clone https://github.com/PanddEra/CRUD-Users-React.git```
 ### 2. Open project folder:
-   ```cd PATH```
+   ```cd [PROJECT_PATH]```
 ### 3. Install dependencies:
    ```npm install```
 ### 4. Run the project:
