@@ -5,7 +5,7 @@
 ## About the Project
 
 #### Live Demo
-https://crud-users-react-panddera.netlify.app/users
+https://crud-users-react-panddera.netlify.app
 
 This project is a User Management System that allows you to:
 
