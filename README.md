@@ -21,7 +21,7 @@ The app uses a fake API and demonstrates real-world frontend patterns.
  - React Router
  - React Bootstrap
  - Yup/Formik
- - 
+
 ## Features
 - Users list pae
 - Create user form
